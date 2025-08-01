@@ -31,4 +31,16 @@ This is my repository with all my solved DSA questions in cpp
 |  |
 | ------- |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sanjaycodez/DSA-CPP/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanjaycodez/DSA-CPP/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanjaycodez/DSA-CPP/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sanjaycodez/DSA-CPP/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
