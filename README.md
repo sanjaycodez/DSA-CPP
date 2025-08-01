@@ -27,4 +27,8 @@ This is my repository with all my solved DSA questions in cpp
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjaycodez/DSA-CPP/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sanjaycodez/DSA-CPP/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
