@@ -19,10 +19,12 @@ This is my repository with all my solved DSA questions in cpp
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjaycodez/DSA-CPP/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sanjaycodez/DSA-CPP/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +37,7 @@ This is my repository with all my solved DSA questions in cpp
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanjaycodez/DSA-CPP/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -43,4 +46,21 @@ This is my repository with all my solved DSA questions in cpp
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanjaycodez/DSA-CPP/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanjaycodez/DSA-CPP/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
